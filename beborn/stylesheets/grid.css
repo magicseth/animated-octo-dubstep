@@ -3,7 +3,7 @@
 .grid_2 { width: 20%; } 
 .grid_2a { width: 20%; } 
 .grid_3 { width: 23%; } 
-.grid_4 { width: 33.33%; } 
+.grid_4 { width: 100%; } 
 .grid_5 { width: 40.5%; }
 .grid_6 { width: 50%; display: inline-block; float: left; } 
 .grid_7 { width: 57.5%; } 
