@@ -17,7 +17,7 @@ No)
 	exit;;
 esac
 done
-git add beborn/index.html
+git add -A
 git commit -m "automatic commit"
 git push
 ssh betterma@bettermagician.com
