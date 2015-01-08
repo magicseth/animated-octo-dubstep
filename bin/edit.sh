@@ -4,6 +4,7 @@ python -m SimpleHTTPServer &
 open http://localhost:8000/beborn
 ~/bin/subl -w beborn/index.html
 kill $!
+open /Applications/Utilities/Terminal.app
 echo "Do you wish to upload your changes?"
 select yn in "Yes" "No";
 do

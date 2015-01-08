@@ -1,2 +1,2 @@
 #!/bin/bash
-~/beborn.org/bin/edit.sh
+(cd ~/beborn.org/ && ~/beborn.org/bin/edit.sh)
